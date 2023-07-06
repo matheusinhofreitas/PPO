@@ -1,0 +1,5 @@
+Teste com 250k de episodios
+instancias de tamanho N_10_M_2,N_10_M_4 e N_10_M_8 porem com caracteristicas diferentes
+ppo_tensorboard\PPO_35
+pasta de teste 2
+Total de instancias 6

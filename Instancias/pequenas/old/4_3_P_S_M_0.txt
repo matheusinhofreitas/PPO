@@ -1,0 +1,80 @@
+M: 3
+N: 4
+Nun_Veiculos: 2
+Capacidade_Total: 161
+Demanda_Total: 96
+Setup_Min: 1
+Setup_Max: 9
+Raio: 20
+Circulos: 1
+Tempo_Processamento_Min: 1
+Tempo_Processamento_Max: 49
+Demanda_Min: 10
+Demanda_Max: 30
+Priority_Factor: 0.2
+Range_Factor_R: 0.8
+U_factor: 2
+ALpha: 0.2Replicao: 0
+Tempos_Processamentos
+0	0	1	0	2	0	
+0	1	1	25	2	25	
+0	49	1	47	2	21	
+0	47	1	30	2	19	
+0	9	1	46	2	48	
+
+Tempos_setup
+M0
+0	0	0	0	0	
+0	0	6	4	4	
+0	9	0	7	8	
+0	2	7	0	5	
+0	1	2	4	0	
+M1
+0	0	0	0	0	
+0	0	4	6	8	
+0	3	0	2	5	
+0	1	5	0	7	
+0	6	9	7	0	
+M2
+0	0	0	0	0	
+0	0	6	8	3	
+0	3	0	7	1	
+0	6	3	0	4	
+0	3	4	7	0	
+Tamanho_Tarefas
+0	14	21	30	31	
+Data_Entrega
+0	67	57	60	59	
+Penalidade_Atraso
+0	14	16	3	14	
+Capacidade_Veiculo
+89	72	
+Custo_Fixo_Veiculo
+890	720	
+Coordenadas_Clientes
+x	0	y	0
+x	18	y	0
+x	0	y	21
+x	-21	y	0
+x	0	y	-23
+Tempo_Viagem
+0	18	21	21	23	
+18	0	27	39	29	
+21	27	0	29	44	
+21	39	29	0	31	
+23	29	44	31	0	
+Custo_Viagem
+V0
+0	320	373	373	409	
+320	0	480	694	516	
+373	480	0	516	783	
+373	694	516	0	551	
+409	516	783	551	0	
+V1
+0	259	302	302	331	
+259	0	388	561	417	
+302	388	0	417	633	
+302	561	417	0	446	
+331	417	633	446	0	
+Velocidade_Veiculos
+1	1	

@@ -1,0 +1,3 @@
+426.1666666666667
+-------------------------
+[{'Instancia': '10_2_P_R_A__0', 'FO_Best': 96.0, 'FO_inicial': 1582.0, 'LB': 0}, {'Instancia': '10_2_P_R_F__0', 'FO_Best': 39.0, 'FO_inicial': 1439.0, 'LB': 0}, {'Instancia': '10_4_P_R_M__0', 'FO_Best': 535.0, 'FO_inicial': 2296.0, 'LB': 0}, {'Instancia': '10_4_P_S_A__0', 'FO_Best': 1350.0, 'FO_inicial': 1878.0, 'LB': 0}, {'Instancia': '10_8_P_S_F__0', 'FO_Best': 90.0, 'FO_inicial': 310.0, 'LB': 0}, {'Instancia': '10_8_P_S_M__0', 'FO_Best': 447.0, 'FO_inicial': 1197.0, 'LB': 0}]

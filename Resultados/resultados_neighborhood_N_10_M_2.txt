@@ -1,0 +1,14 @@
+[102.0, 63.0, 1400.0, 666.0, 144.0, 98.0, 2015.0, 1280.0, 670.0, 3148.0, 1660.0, 72.0]
+-------------------------
+[{'Instancia': '10_2_P_R_A__0', 'FO_Best': 102.0, 'FO_inicial': 1582.0, 'LB': 0}
+ {'Instancia': '10_2_P_R_F__0', 'FO_Best': 63.0, 'FO_inicial': 1439.0, 'LB': 0}
+ {'Instancia': '10_2_P_R_M__0', 'FO_Best': 1400.0, 'FO_inicial': 3210.0, 'LB': 0}
+ {'Instancia': '10_2_P_S_A__0', 'FO_Best': 666.0, 'FO_inicial': 1131.0, 'LB': 0}
+ {'Instancia': '10_2_P_S_F__0', 'FO_Best': 144.0, 'FO_inicial': 2803.0, 'LB': 0}
+ {'Instancia': '10_2_P_S_M__0', 'FO_Best': 98.0, 'FO_inicial': 1547.0, 'LB': 0}
+ {'Instancia': '10_2_Se_R_A__0', 'FO_Best': 2015.0, 'FO_inicial': 5605.0, 'LB': 0}
+ {'Instancia': '10_2_Se_R_F__0', 'FO_Best': 1280.0, 'FO_inicial': 7740.0, 'LB': 0}
+ {'Instancia': '10_2_Se_R_M__0', 'FO_Best': 670.0, 'FO_inicial': 5212.0, 'LB': 0}
+ {'Instancia': '10_2_Se_S_A__0', 'FO_Best': 3148.0, 'FO_inicial': 8736.0, 'LB': 0}
+ {'Instancia': '10_2_Se_S_F__0', 'FO_Best': 1660.0, 'FO_inicial': 9015.0, 'LB': 0}
+ {'Instancia': '10_2_Se_S_M__0', 'FO_Best': 72.0, 'FO_inicial': 3115.0, 'LB': 0}]

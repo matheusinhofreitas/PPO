@@ -1,0 +1,5 @@
+Teste com 500k de episodios
+instancias de tamanho N_10_M_2, N_10_M_4 e N_10_M_8 (36 instancias)
+Resultados\Resultados m-2, 4 e 6 - 500k ep\PPO_33
+pasta de teste 1
+Total de instancias 36

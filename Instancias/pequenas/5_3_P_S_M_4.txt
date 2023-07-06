@@ -1,0 +1,95 @@
+M: 3
+N: 5
+Nun_Veiculos: 3
+Capacidade_Total: 145
+Demanda_Total: 77
+Setup_Min: 1
+Setup_Max: 9
+Raio: 20
+Circulos: 1
+Tempo_Processamento_Min: 1
+Tempo_Processamento_Max: 49
+Demanda_Min: 10
+Demanda_Max: 30
+Priority_Factor: 0.2
+Range_Factor_R: 0.8
+U_factor: 2
+ALpha: 0.2Replicao: 4
+Tempos_Processamentos
+0	0	1	0	2	0	
+0	40	1	6	2	30	
+0	11	1	36	2	13	
+0	1	1	31	2	33	
+0	40	1	48	2	12	
+0	7	1	31	2	7	
+
+Tempos_setup
+M0
+0	0	0	0	0	0	
+0	0	6	6	3	5	
+0	3	0	5	5	1	
+0	3	7	0	1	1	
+0	6	7	9	0	4	
+0	2	8	6	4	0	
+M1
+0	0	0	0	0	0	
+0	0	5	4	3	1	
+0	7	0	4	8	6	
+0	5	4	0	7	2	
+0	1	6	5	0	2	
+0	3	7	3	5	0	
+M2
+0	0	0	0	0	0	
+0	0	3	1	2	3	
+0	3	0	4	5	6	
+0	5	2	0	5	6	
+0	6	5	7	0	2	
+0	4	3	5	4	0	
+Tamanho_Tarefas
+0	17	15	2	28	15	
+Data_Entrega
+0	46	47	45	46	51	
+Penalidade_Atraso
+0	18	14	14	4	20	
+Capacidade_Veiculo
+45	49	51	
+Custo_Fixo_Veiculo
+450	490	510	
+Coordenadas_Clientes
+x	0	y	0
+x	17	y	0
+x	5	y	16
+x	-15	y	11
+x	-19	y	-14
+x	6	y	-21
+Tempo_Viagem
+0	17	16	18	23	21	
+17	0	20	33	38	23	
+16	20	0	20	38	37	
+18	33	20	0	25	38	
+23	38	38	25	0	25	
+21	23	37	38	25	0	
+Custo_Viagem
+V0
+0	153	144	162	207	189	
+153	0	180	297	342	207	
+144	180	0	180	342	333	
+162	297	180	0	225	342	
+207	342	342	225	0	225	
+189	207	333	342	225	0	
+V1
+0	166	156	176	225	205	
+166	0	196	323	372	225	
+156	196	0	196	372	362	
+176	323	196	0	245	372	
+225	372	372	245	0	245	
+205	225	362	372	245	0	
+V2
+0	173	163	183	234	214	
+173	0	204	336	387	234	
+163	204	0	204	387	377	
+183	336	204	0	255	387	
+234	387	387	255	0	255	
+214	234	377	387	255	0	
+Velocidade_Veiculos
+1	1	1	

@@ -1,0 +1,10 @@
+Teste com 500k de episodios
+instancias de tamanho N_10_M_2,N_10_M_4 e N_10_M_8 
+Total de 36 instacias( pasta Testes)
+ppo_tensorboard\PPO_41
+
+Teste utilizando como recompesa:
+recompensa = float(-1* (self.FO - self.instancia.LB)/(self.instancia.UB - self.instancia.LB)*100 )
+
+onde o LB são calculados de acordo com as tarefas.
+UB = solucao inicial

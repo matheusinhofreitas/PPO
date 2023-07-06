@@ -1,0 +1,95 @@
+M: 3
+N: 5
+Nun_Veiculos: 3
+Capacidade_Total: 248
+Demanda_Total: 136
+Setup_Min: 1
+Setup_Max: 9
+Raio: 20
+Circulos: 1
+Tempo_Processamento_Min: 1
+Tempo_Processamento_Max: 49
+Demanda_Min: 10
+Demanda_Max: 30
+Priority_Factor: 0.2
+Range_Factor_R: 0.8
+U_factor: 2
+ALpha: 0.2Replicao: 0
+Tempos_Processamentos
+0	0	1	0	2	0	
+0	49	1	34	2	32	
+0	26	1	33	2	35	
+0	32	1	35	2	12	
+0	49	1	45	2	3	
+0	33	1	45	2	3	
+
+Tempos_setup
+M0
+0	0	0	0	0	0	
+0	0	5	3	1	4	
+0	3	0	6	4	1	
+0	2	2	0	3	1	
+0	4	4	2	0	3	
+0	2	1	5	3	0	
+M1
+0	0	0	0	0	0	
+0	0	4	6	6	5	
+0	4	0	3	3	2	
+0	4	6	0	4	7	
+0	3	6	2	0	8	
+0	2	6	1	1	0	
+M2
+0	0	0	0	0	0	
+0	0	5	3	5	4	
+0	5	0	4	6	5	
+0	1	2	0	2	1	
+0	6	2	6	0	7	
+0	1	1	4	6	0	
+Tamanho_Tarefas
+0	35	30	23	21	27	
+Data_Entrega
+0	66	51	66	62	56	
+Penalidade_Atraso
+0	14	12	13	20	12	
+Capacidade_Veiculo
+101	48	99	
+Custo_Fixo_Veiculo
+1010	480	990	
+Coordenadas_Clientes
+x	0	y	0
+x	22	y	0
+x	5	y	15
+x	-17	y	12
+x	-14	y	-10
+x	4	y	-15
+Tempo_Viagem
+0	22	15	20	17	15	
+22	0	22	40	37	23	
+15	22	0	22	31	30	
+20	40	22	0	22	34	
+17	37	31	22	0	18	
+15	23	30	34	18	0	
+Custo_Viagem
+V0
+0	444	303	404	343	303	
+444	0	444	808	747	464	
+303	444	0	444	626	606	
+404	808	444	0	444	686	
+343	747	626	444	0	363	
+303	464	606	686	363	0	
+V1
+0	211	144	192	163	144	
+211	0	211	384	355	220	
+144	211	0	211	297	288	
+192	384	211	0	211	326	
+163	355	297	211	0	172	
+144	220	288	326	172	0	
+V2
+0	435	297	396	336	297	
+435	0	435	792	732	455	
+297	435	0	435	613	594	
+396	792	435	0	435	673	
+336	732	613	435	0	356	
+297	455	594	673	356	0	
+Velocidade_Veiculos
+1	1	1	
