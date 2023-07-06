@@ -11,7 +11,7 @@ import gym_customizedEnv.envs.variaveis as var
 
 #import gym_customizedEnv
 
-env_t = gym.make("gym_customizedEnv-v0")
+#env_t = gym.make("gym_customizedEnv-v0")
 
 print("===== CHECANDO AMBIENTE =====")
 
