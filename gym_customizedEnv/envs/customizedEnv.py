@@ -1,3 +1,4 @@
+import os
 import numpy as np
 import gym
 from gym import spaces
@@ -91,7 +92,7 @@ class CustomizedEnv(gym.Env):
   #TODO: Ler apenas 1 instancia por vez.
   def criar_instancia(self, instancia_selecionada):
     #path = "./Instancias/Testes"#_3"
-    path = "./Instancias/N_10"#_3"
+    path = os.path.join(os.path.dirname(__file__)) + "/../../Instancias/N_10"#_3"
     files = listar_arquivos(path)
     files.sort()
     instancia_selecionada = int(instancia_selecionada % var.TOTAL_INSTANCIAS)
